@@ -6,7 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Ademito melhor professor ever!!!");
             int a = 10;
             int b = 5;
             Console.WriteLine("Total:");
