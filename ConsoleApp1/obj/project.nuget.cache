@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F7X2G04SNBDQiPyv7PbK0f6DcUWbcgYBzllUobOPNJ1XyRO43WgmQFregmNbUbAhHH3M9JjZc8efRKHvdet61g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ademi\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ademi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
